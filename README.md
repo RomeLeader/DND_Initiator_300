@@ -1,4 +1,4 @@
-# DND_Initiator_300
+# DND_Initiator_3000
 
 [Version 1.5]
 
