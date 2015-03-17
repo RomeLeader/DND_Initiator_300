@@ -7,7 +7,7 @@ initiative or calculating it with all those numbers?
 
 TIRE NO MORE
 
-Introducing the handy, dandy DND INITIATOR 300!!! Running on a shiny version of Google's Quicksort, this bad boy can
+Introducing the handy, dandy DND INITIATOR 3000!!! Running on a shiny version of Google's Quicksort, this bad boy can
 calculate initiative for you and 10 million of your best buds. It has log(n) complexity, so you know that shit's for real.
 
 Source code included for benefit of the interested (Jeffrey).
